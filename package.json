@@ -1,0 +1,23 @@
+{
+  "name": "toolbox_js",
+  "version": "1.0.0",
+  "description": "An SDK for nodejs projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "log-to-file": "^2.0.2",
+    "mssql": "^6.0.1",
+    "nodemailer": "^6.4.11",
+    "objects-to-csv": "^1.3.6",
+    "sequelize-cli": "^5.5.1",
+    "simple-excel-to-json": "^2.2.1"
+  },
+  "author": "David G. Aladeusi",
+  "license": "ISC"
+}
